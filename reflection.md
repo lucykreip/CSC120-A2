@@ -1,3 +1,5 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+I found this program more difficult than I anticipated, mostly as I found it difficult to recall my python from high school, and I struggled to implement all the things I was trying to remeber how to do. I also got started on this assignment later than I should've and subsequently didn't have the chance to go to office hours when I should've, instead leaving myself to find any syntax or work through lots of problems on my own. In the future I will get started on assignments much earlier, and will take full advantage of the offered offic hours. I would advise people to ask lots of questions when confused and to not hesitate to reach out for help in office hours or other. 
